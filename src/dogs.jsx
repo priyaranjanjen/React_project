@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import './dogs.css';
 function FetchDog(){
 
     const [breedImage, setBreedImage] = useState([]);
